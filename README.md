@@ -30,7 +30,7 @@ $ python collecting_images.py rock 200
 $ python train-model.py
 ```
 
-5. Test and Play the game with your computer!
+5. Test and Play the game !
 ```sh
 $ python testing_model.py
 ```
