@@ -10,7 +10,7 @@ An AI to play the Rock Paper Scissors game
 ## Set up instructions
 1. Clone the repo.
 ```sh
-$ git clone https://github.com/ShubhamDogra112/rock-paper-scissors.git
+$ git clone https://github.com/ShubhamDogra112/Rock-ppr-scissors-using-CNN.git
 $ cd rock-paper-scissors
 ```
 
